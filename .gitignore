@@ -1,0 +1,5 @@
+chromedriver
+*.log
+/.idea
+__pycache__
+/password.py 
