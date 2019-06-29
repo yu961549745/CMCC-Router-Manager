@@ -1,3 +1,2 @@
-source /anaconda3/bin/activate
-conda activate net   
+sh conda_active.sh  
 python single_test.py
