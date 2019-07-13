@@ -2,5 +2,4 @@ chromedriver
 *.log
 /.idea
 __pycache__
-/password.py 
 /conda_active.sh
